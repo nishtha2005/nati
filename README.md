@@ -1,1 +1,2 @@
-# nati
+# Geologist
+Geologist Project
